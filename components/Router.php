@@ -69,6 +69,7 @@ class Router
                 if (file_exists($controllerFile)) {
                     // Создать объект, вызвать метод (т.е. action)
                     $controllerObject = new $controllerName;
+//                    right here
 
                     /* Вызываем необходимый метод ($actionName) у определенного
                      * класса ($controllerObject) с заданными ($parameters) параметрами

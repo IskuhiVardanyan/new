@@ -16,5 +16,5 @@
     <p class="mt-5 mb-3 text-muted">&copy; 2017–2021</p>
   </form>
 </main>
-
+<!--some comment-->
 <?php include ROOT . '/views/layouts/auth_footer.php'; ?>
